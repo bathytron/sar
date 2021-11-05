@@ -1,3 +1,2 @@
 # sar
-my first respository for my sar education
-this is aint yo mamas commit
+hello, if you'd like to talk about spaceborne ground penetrating SAR, glad to meet you
